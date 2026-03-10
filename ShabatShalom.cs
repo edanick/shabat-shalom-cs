@@ -27,7 +27,7 @@ namespace ShabatShalom {
             ["Jerusalem"] = new CityInfo { Latitude = 31.7690, Longitude = 35.2163, Timezone = "Asia/Jerusalem", Country = "Israel" },
             ["Tel Aviv"] = new CityInfo { Latitude = 32.0809, Longitude = 34.7806, Timezone = "Asia/Jerusalem", Country = "Israel" },
             ["Haifa"] = new CityInfo { Latitude = 32.7940, Longitude = 34.9896, Timezone = "Asia/Jerusalem", Country = "Israel" },
-            ["Be'er Sheva"] = new CityInfo { Latitude = 31.2530, Longitude = 34.7915, Timezone = "Asia/Jerusalem", Country = "Israel" },
+            ["Beer Sheva"] = new CityInfo { Latitude = 31.2530, Longitude = 34.7915, Timezone = "Asia/Jerusalem", Country = "Israel" },
             ["Rishon LeZion"] = new CityInfo { Latitude = 31.9730, Longitude = 34.7925, Timezone = "Asia/Jerusalem", Country = "Israel" },
             ["Petah Tikva"] = new CityInfo { Latitude = 32.0870, Longitude = 34.8870, Timezone = "Asia/Jerusalem", Country = "Israel" },
             ["Ashdod"] = new CityInfo { Latitude = 31.8024, Longitude = 34.6550, Timezone = "Asia/Jerusalem", Country = "Israel" },
